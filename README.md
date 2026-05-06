@@ -17,6 +17,6 @@ I'm Brita, a student at Brigham Young University-Idaho interested in library sci
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]((https://www.linkedin.com/in/brita-mcnabb/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/brita-mcnabb/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
